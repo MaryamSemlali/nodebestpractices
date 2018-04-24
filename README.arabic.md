@@ -14,18 +14,21 @@
 
 <br/>
 
-[![nodepractices](/assets/images/twitter-s.png)](https://twitter.com/nodepractices/) **Follow us on Twitter!** [**@nodepractices**](https://twitter.com/nodepractices/)
+** <div dir="rtl">تابعنا على تويتر [![nodepractices](/assets/images/twitter-s.png)](https://twitter.com/nodepractices/) [**@nodepractices**](https://twitter.com/nodepractices/)</div>
+
 <br/>
 
 <div dir="rtl">
-للقراءة بلغة مختلفة: [![CN](/assets/flags/CN.png)**CN**](/README.chinese.md)     [(![ES](/assets/flags/ES.png)**ES**, ![FR](/assets/flags/FR.png)**FR**, ![HE](/assets/flags/HE.png)**HE**, ![KR](/assets/flags/KR.png)**KR**, ![RU](/assets/flags/RU.png)**RU** and ![TR](/assets/flags/TR.png)**TR** in progress!)](#translations)
+للقراءة بلغة مختلفة:
 </div>
+[![CN](/assets/flags/CN.png)**CN**](/README.chinese.md)     [(![ES](/assets/flags/ES.png)**ES**, ![FR](/assets/flags/FR.png)**FR**, ![HE](/assets/flags/HE.png)**HE**, ![KR](/assets/flags/KR.png)**KR**, ![RU](/assets/flags/RU.png)**RU** and ![TR](/assets/flags/TR.png)**TR** in progress!)](#translations)
+
 
 <br/>
 
 # <div dir="rtl">مرحبا ! 3 اشياء يجب عليك معرفتها اولا: </div>
 
-** <div dir="rtl">1. عندما تقرا هنا، انت في الواقع تقرا العشرات من المقالات حول افضل الممارسات في Node.js -** هذا هو ملخص وترتيب لافضل المحتويات عن افضل ممارسات Node.js</div>
+** <div dir="rtl">1. عندما تقرا هنا، انت في الواقع تقرا العشرات من المقالات حول افضل الممارسات في Node.js</div> -** <div dir="rtl">هذا هو ملخص وترتيب لافضل المحتويات عن افضل ممارسات Node.js</div>
 
 ** <div dir="rtl">2. انه من اكبر التجميعات، والعدد يزداد كل اسبوع -** حاليا، نقدم اكثر من 50 افضل ممارسة، اسلوب الكتابة ونصائح عن الهيكلة. يوميا يتم انشاء مشكلات وطلبات سحب جديدة لكي يكون هذا الكتاب في تحديث مستمر. نود ان نراكم تساهمون هنا، سواء في اصلاح بعض الأخطاء البرمجية او اقتراح افكار جديدة. تفقد [milestones](https://github.com/i0natan/nodebestpractices/milestones?direction=asc&sort=due_date&state=open)</div>
 
