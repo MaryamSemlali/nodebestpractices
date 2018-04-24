@@ -17,10 +17,8 @@
 [![nodepractices](/assets/images/twitter-s.png)](https://twitter.com/nodepractices/) **Follow us on Twitter!** [**@nodepractices**](https://twitter.com/nodepractices/)
 <br/>
 
-  Read in different language: [![CN](/assets/flags/CN.png)**CN**](/README.chinese.md)     [(![ES](/assets/flags/ES.png)**ES**, ![FR](/assets/flags/FR.png)**FR**, ![HE](/assets/flags/HE.png)**HE**, ![KR](/assets/flags/KR.png)**KR**, ![RU](/assets/flags/RU.png)**RU** and ![TR](/assets/flags/TR.png)**TR** in progress!)](#translations)
-
 <div dir="rtl">
-للقراءة بلغة مختلفة: [![CN](/assets/flags/CN.png)**CN**](/README.chinese.md) [(![ES](/assets/flags/ES.png)**ES**, ![FR](/assets/flags/FR.png)**FR**, ![HE](/assets/flags/HE.png)**HE**, ![KR](/assets/flags/KR.png)**KR**, ![RU](/assets/flags/RU.png)**RU** and ![TR](/assets/flags/TR.png)**TR** !)](#translations)
+للقراءة بلغة مختلفة: [![CN](/assets/flags/CN.png)**CN**](/README.chinese.md)     [(![ES](/assets/flags/ES.png)**ES**, ![FR](/assets/flags/FR.png)**FR**, ![HE](/assets/flags/HE.png)**HE**, ![KR](/assets/flags/KR.png)**KR**, ![RU](/assets/flags/RU.png)**RU** and ![TR](/assets/flags/TR.png)**TR** in progress!)](#translations)
 </div>
 
 <br/>
@@ -31,4 +29,4 @@
 
 ** <div dir="rtl">2. انه من اكبر التجميعات، والعدد يزداد كل اسبوع -** حاليا، نقدم اكثر من 50 افضل ممارسة، اسلوب الكتابة ونصائح عن الهيكلة. يوميا يتم انشاء مشكلات وطلبات سحب جديدة لكي يكون هذا الكتاب في تحديث مستمر. نود ان نراكم تساهمون هنا، سواء في اصلاح بعض الأخطاء البرمجية او اقتراح افكار جديدة. تفقد [milestones](https://github.com/i0natan/nodebestpractices/milestones?direction=asc&sort=due_date&state=open)</div>
 
-** div dir="rtl">3. معظم المدخلات تحتوي على معلومات اضافية -** بجانب مدخلات افضل الممارسات سوف تجد الرابط **🔗Read More** الذي سيوجهك نحو نماذج الكود، اقتباسات من مدونات مختارة والعديد من المعلومات الاخرى الاضافية </div>
+** <div dir="rtl">3. معظم المدخلات تحتوي على معلومات اضافية -** بجانب مدخلات افضل الممارسات سوف تجد الرابط **🔗Read More** الذي سيوجهك نحو نماذج الكود، اقتباسات من مدونات مختارة والعديد من المعلومات الاخرى الاضافية </div>
